@@ -1,4 +1,4 @@
-from kubernetes import client, config 
+from kubernetes import client, confi
 
 # Configs can be set in Configuration class directly or using helper utility
 config.load_kube_config()
